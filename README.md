@@ -1,4 +1,4 @@
-# Background-Removal-using-Deep-Learning
+# Sunglass-Segmentation-using-Deep-Learning
 The repository contains the code for removing the background human image using deep learning (semantic segmentation)
 
 ## Dataset
